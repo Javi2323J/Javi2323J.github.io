@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Javier Romera',
+    subtitle: 'My Portfolio',
+    description: 'Personal portfolio',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -55,13 +55,9 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
+            text: 'Github',
+            href: 'https://github.com/Javi2323J'
         },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
     ],
     footerNavLinks: [
         {
@@ -71,29 +67,17 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Linkedin',
+            href: 'www.linkedin.com/in/javi2323j'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'GitHub',
+            href: 'https://github.com/Javi2323J'
         },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
