@@ -80,7 +80,7 @@ const siteConfig: SiteConfig = {
         },
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
+        title: 'Hi There And Welcome to My Professional Portfolio!',
         text: "Hi, I'm **Javier Romera**, a passionate Web Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). I recently completed an intensive coding bootcamp, where I honed my skills in creating dynamic and user-friendly web applications. Now, I'm eager to bring my knowledge and creativity to a professional team as I pursue new opportunities in the tech industry. Feel free to take a look at my GitHub or contact me!",
         image: {
             src: '/hero.jpeg',
