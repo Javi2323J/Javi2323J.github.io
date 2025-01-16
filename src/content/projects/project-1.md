@@ -19,4 +19,16 @@ Develop a user-friendly, feature-rich application with a variety of minigames to
 
 ## Features
 
-1. ****
+1. **OnePieceDle minigame**
+
+- In this minigame, your goal is to guess a randomly selected character from the One Piece universe.
+- Features real-time updates and a highly interactive, user-friendly interface that's easy to understand.
+
+2. **OneDoku minigame**
+
+- In this minigame, you’ll work with a 3x3 board where each row and column has specific conditions that the characters you place in each space must satisfy.
+- A user-friendly interface designed to clearly convey the purpose of the minigame and guide players on how to play it correctly.
+
+3. **OnePiece Map**
+
+-
