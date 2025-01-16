@@ -41,10 +41,10 @@ const siteConfig: SiteConfig = {
     title: 'Javier Romera',
     subtitle: 'My Portfolio',
     description: 'Personal portfolio',
-    image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
-    },
+    // image: {
+    //     src: '/dante-preview.jpg',
+    //     alt: 'Dante - Astro.js and Tailwind CSS theme'
+    // },
     headerNavLinks: [
         {
             text: 'Home',
