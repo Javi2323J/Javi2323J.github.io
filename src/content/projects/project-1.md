@@ -46,3 +46,5 @@ Develop a user-friendly, feature-rich application with a variety of minigames to
 - Backend: Node.js with Express
 - Testing: Mocha and Chai
 - Security: JWT and bcrypt
+
+Feel free to check the [GitHub](https://github.com/Javi2323J) repository with all the code!
