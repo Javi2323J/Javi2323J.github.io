@@ -21,6 +21,6 @@ I enjoy tackling complex problems and turning ideas into functional, well-design
 
 I believe in the importance of continuous learning to stay up-to-date in the ever-evolving field of web development. After completing a web development bootcamp, I’ve continued to expand my knowledge by taking courses on platforms like Udemy. This ongoing education allows me to refine my skills, explore new technologies, and stay current with industry trends.
 
-## Teamwork and communication
+## Teamwork
 
-I really enjoy working with a team, sharing ideas, and bouncing thoughts off my teammates. If any issues come up, I’m quick to jump in and help sort things out, making sure we stay on track and keep things running smoothly.
+I really enjoy working with a team, sharing ideas and bouncing thoughts off my teammates. If any issues come up, I’m quick to jump in and help sort things out, making sure we stay on track and keep things running smoothly.
