@@ -8,7 +8,7 @@ seo:
     src: 'project-2.png'
 ---
 
-![Project preview](/project-2.png)
+![Project preview](/project-2.jpg)
 
 **Project Overview:**
 Minesweeper is an engaging web application designed for fans of classic logic puzzles who are ready to test their wits. Sharpen your problem-solving skills by navigating the timeless challenge of Minesweeper. Strategically uncover tiles, avoid hidden mines, and aim for a flawless victory as you clear the board.
