@@ -47,4 +47,4 @@ Develop a user-friendly, feature-rich application with a variety of minigames to
 - Testing: Mocha and Chai
 - Security: JWT and bcrypt
 
-Feel free to check the [GitHub](https://github.com/Javi2323J/all-piece) repository with all the code!
+Feel free to check the [GitHub](https://github.com/Javi2323J/all-piece) repository with the code!
